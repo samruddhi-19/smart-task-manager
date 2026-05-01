@@ -1,10 +1,5 @@
 # DECISION_LOG.md
 
-This file is supposed to carry more weight than the code itself — it's about
-how I thought through the problem, not just what I ended up building.
-
----
-
 ## 1. Time Breakdown
 
 | Phase | Time |
